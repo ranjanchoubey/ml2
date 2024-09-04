@@ -1,5 +1,5 @@
 
-[Assignment-1](APR_assignments.pdf)
+[Full View Assignment-1](APR_assignments.pdf)
 
 <br>
 
