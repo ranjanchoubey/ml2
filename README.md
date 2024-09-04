@@ -8,29 +8,32 @@
 
 ![image](https://github.com/user-attachments/assets/f20a95c1-ec21-40d5-9cd4-cf772b78a38f)
 
+# Machine Learning II Assignments
 
-# Deep Learning Assignment 1
+This repository contains assignments for the Machine Learning II course, focusing on advanced topics in deep learning and generative models.
 
-This repository contains solutions for Assignment 1 of the Deep Learning course, focusing on generative models and evaluation metrics.
+## Assignment 1: Generative Models
 
-## Contents
+### Contents
 
-1. [Autoencoder (Q1-Autoencoder.ipynb)](#autoencoder)
-2. [Denoising Autoencoder (Problem_1_2.ipynb)](#denoising-autoencoder)
-3. [Generative Adversarial Networks (Q2-GAN.ipynb)](#generative-adversarial-networks)
-4. [Variational Autoencoders (Q3-VAE.ipynb)](#variational-autoencoders)
-5. [Inception Score (Q4-InceptionScore.ipynb)](#inception-score)
+1. [Autoencoder (Q1-Autoencoder.ipynb)](assignment-1/Q1-Autoencoder.ipynb)
+   - Explanation of denoising autoencoders
+   - Pseudocode for denoising autoencoder training loop
 
-## Autoencoder
+2. [Denoising Autoencoder Implementation (Problem_1_2.ipynb)](assignment-1/Problem_1_2.ipynb)
+   - PyTorch implementation of a denoising autoencoder
+   - MNIST dataset preparation
+   - Training loop with noise injection
+   - Visualization of results
 
-- Explanation of denoising autoencoders
-- Pseudocode for denoising autoencoder training loop
+3. [Generative Adversarial Networks (Q2-GAN.ipynb)](assignment-1/Q2-GAN.ipynb)
+   - GAN architecture and training process
 
-## Denoising Autoencoder
+4. [Variational Autoencoders (Q3-VAE.ipynb)](assignment-1/Q3-VAE.ipynb)
+   - VAE theory and implementation
 
-Implementation of a denoising autoencoder using PyTorch:
-- Data preparation (MNIST dataset)
-- Model definition
-- Training loop with noise injection
-- Visualization of results
+5. [Inception Score (Q4-InceptionScore.ipynb)](assignment-1/Q4-InceptionScore.ipynb)
+   - Explanation and implementation of Inception Score
+
+
 
